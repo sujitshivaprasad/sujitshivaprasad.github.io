@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sujit Shivaprasad, Aerospace Engineer - Site Launched"
+title: "Sujit Shivaprasad - Site Launched"
 date: 2017-02-19
 ---
 
